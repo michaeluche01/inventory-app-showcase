@@ -158,7 +158,7 @@ On the floor counting stock. Tedious manual counting, no immediate feedback, pre
 │         Entities · Use Cases · Repository Interfaces    │
 ├─────────────────────────────────────────────────────────┤
 │                   Data Layer                             │
-│    Remote (REST API)  │  Local (SQLite / Hive cache)    │
+│    Remote (REST API)  │  Local (PostgreSQL / Hive cache)    │
 └──────────────────────────────────────────────────────────┘
                           │
               ┌───────────┴────────────┐
