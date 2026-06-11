@@ -410,7 +410,7 @@ inventory-app-showcase/
 |---|---|
 | Mobile | Flutter 3.x (Dart) |
 | State Management | BLoC / Riverpod |
-| Local Storage | Hive + SQLite |
+| Local Storage | PostgreSQL + SQLite |
 | Backend | Python + FastAPI |
 | AI/ML | Python (demand forecasting engine) |
 | Design | Figma |
