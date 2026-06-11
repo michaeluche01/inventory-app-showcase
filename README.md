@@ -430,7 +430,7 @@ inventory-app-showcase/
 
 ## 👤 About
 
-**Built by Michael Chiedozie** — a product-minded developer passionate about building tools for African businesses.
+**Built by Michael Chiedozie & Babatunde Adedeji** — a product-minded developer passionate about building tools for African businesses.
 
 - 🌍 Lagos, Nigeria
 - 💼 [Portfolio](#) `coming soon`
