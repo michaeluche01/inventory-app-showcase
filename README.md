@@ -163,7 +163,7 @@ On the floor counting stock. Tedious manual counting, no immediate feedback, pre
                           │
               ┌───────────┴────────────┐
               │     THROVE BACKEND     │
-              │   Node.js / Firebase   │
+              │   Python / FastAPI   │
               │  AI Forecasting Engine │
               └────────────────────────┘
 ```
@@ -196,8 +196,8 @@ The THROVE design language is built around **trust, clarity, and urgency** — t
 - **Contrast ratio:** 4.5:1 for all body text (WCAG AA compliant)
 - **Animations:** 300ms fade/slide transitions, Lottie success confirmations, skeleton loading screens
 
-📄 See [`docs/DESIGN_SYSTEM.md`](docs/DESIGN_SYSTEM.md) for the full design language.  
-🎨 **Figma Design File:** `[link coming soon]`
+📄 See [`docs/DESIGN_SYSTEM.md`](docs/THROVE_DESIGN_SYSTEM.md) for the full design language.  
+🎨 
 
 ---
 
