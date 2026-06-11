@@ -8,8 +8,12 @@
 
 <br/><br/>
 
-# 📦 THROVE
+<div align="center">
+  <img src="./docs/COLORED ICON.svg" alt="THROVE Logo" width="100" /> 
+
+# THROVE
 ### *Your Business Thrives When Inventory Works*
+</div>
 
 **A mobile-first, AI-powered inventory management system built for African SMEs.**  
 Real-time stock tracking · AI demand forecasting · Multi-location management · Automated alerts
